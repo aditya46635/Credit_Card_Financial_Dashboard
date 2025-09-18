@@ -2,6 +2,7 @@
 Power Bi Project
 
 Credit Card Customer Report
+
 This Dashboard is a strategic, enterprise-grade analytical tool designed to provide actionable visibility into critical customer, product, and revenue metrics for the financial services organization. Built for decision-makers and analytics teams, this dashboard integrates diverse customer demographic, behavioral, financial, and regional data to facilitate precise performance monitoring, segment analysis, and market opportunity identification
 It empowers executives, product managers, and marketing teams to:
 
