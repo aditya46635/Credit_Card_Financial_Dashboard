@@ -2,7 +2,7 @@
 Power Bi Project
 
 Credit Card Customer Report
-The Credit Card Customer Dashboard is a strategic, enterprise-grade analytical tool designed to provide actionable visibility into critical customer, product, and revenue metrics for the financial services organization. Built for decision-makers and analytics teams, this dashboard integrates diverse customer demographic, behavioral, financial, and regional data to facilitate precise performance monitoring, segment analysis, and market opportunity identification
+This Dashboard is a strategic, enterprise-grade analytical tool designed to provide actionable visibility into critical customer, product, and revenue metrics for the financial services organization. Built for decision-makers and analytics teams, this dashboard integrates diverse customer demographic, behavioral, financial, and regional data to facilitate precise performance monitoring, segment analysis, and market opportunity identification
 It empowers executives, product managers, and marketing teams to:
 
 Pinpoint high-value customer segments and their behavioral patterns,
@@ -41,6 +41,7 @@ Enables granular analysis by product tier and seasonal trends, supporting tactic
 
 
 Credit Card Transaction
+
 This dashboard provides a comprehensive analysis of credit card transactions over the selected period (01/01/2023 – 12/11/2023). It highlights revenue, transaction volumes, interest earned, and customer behaviors segmented by card category, expense type, education level, job profile, and transaction mode. The insights derived from this dashboard help financial institutions understand customer spending patterns, identify profitable customer segments, and make data-driven decisions for product enhancement and targeted marketing.
 
 📊 Key Insights by Chart
