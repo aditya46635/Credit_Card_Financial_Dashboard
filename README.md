@@ -55,6 +55,7 @@ Total Interest Earned: 7.84M
 Total Transactions: 45M
 
 Amount: 656K
+
 🔹 Strong revenue generation is accompanied by substantial interest earnings, reflecting both high transaction volumes and effective interest collection strategies.
 
 2. Card Category Performance (Table & Bar Chart)
@@ -62,6 +63,7 @@ Amount: 656K
 Blue Card dominates with 46M revenue (≈83% share), 36.9M transaction amount, and 6.5M interest earned.
 
 Silver Card contributes 6M revenue, while Gold (2M) and Platinum (1M) show limited usage.
+
 🔹 Blue cards are the backbone of revenue; however, Gold and Platinum cards underperform, indicating a need for revised reward/loyalty strategies to boost premium card adoption.
 
 3. Quarterly Revenue & Transactions
@@ -69,11 +71,13 @@ Silver Card contributes 6M revenue, while Gold (2M) and Platinum (1M) show limit
 Q3 leads with 14.2M revenue and highest transaction count (166.6K).
 
 Q1 (14M) and Q2 (13.8M) perform closely, while Q4 dips to 13.3M with lower transaction count (161.6K).
+
 🔹 Transaction volumes and revenue peak in Q3, suggesting seasonal or festival-driven spending, while Q4 slowdown may require promotional campaigns.
 
 4. Revenue by Expense Type
 
 Bills (14M) generate the highest revenue, followed by Entertainment (10M), Fuel (9M), Grocery (9M), Food (8M), and Travel (6M).
+
 🔹 Essential categories (Bills, Grocery, Fuel) dominate, but non-essentials like Entertainment also show strong contributions—indicating both necessity and lifestyle-driven usage.
 
 5. Revenue by Education Level
@@ -81,6 +85,7 @@ Bills (14M) generate the highest revenue, followed by Entertainment (10M), Fuel 
 Graduates contribute the highest revenue (22M), followed by High School (11M).
 
 Lower contributions from Post-Graduate (3M) and Doctorate (2M) segments.
+
 🔹 Graduate and High School customers are the key segments driving card usage, while higher-educated customers contribute less—potentially due to lower dependency on credit facilities or alternative financial tools.
 
 6. Revenue by Customer Job
@@ -88,11 +93,13 @@ Lower contributions from Post-Graduate (3M) and Doctorate (2M) segments.
 Businessmen lead with 17M revenue, followed by White-collar employees (10M).
 
 Other contributors: Self-employed (8M), Govt employees (8M), Blue-collar (7M), and Retirees (5M).
+
 🔹 Businessmen and salaried professionals are the prime drivers of card revenue; retirees contribute the least, highlighting limited card dependency post-retirement.
 
 7. Revenue by Use of Chip (Transaction Mode)
 
 Swipe transactions dominate (35M), followed by Chip-based transactions (17M) and Online payments (3M).
+
 🔹 Traditional POS swipes remain the most common mode, but relatively low online usage suggests scope for promoting digital payments and e-commerce tie-ups.
 
 
